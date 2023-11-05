@@ -56,7 +56,7 @@ Feel free to contribute to this project by opening issues, suggesting enhancemen
 
 For questions or inquiries, please contact Sabyasachi Behera at sabyguds97@gmail.com.
 
-PS-Please ignore the watermark in Screen share
 ---
 A very Hearty Thank you to Growdata Skills, Shashank and Shailja to Mentor and Guide us through the Course.
+PS-Please ignore the watermark in Screen share
 
