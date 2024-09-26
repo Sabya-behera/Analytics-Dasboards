@@ -1,3 +1,5 @@
+## There is a Variation of Both the type of PowerBi Dashboards.
+
 # # Domino's Pizza Sales Report Analysis
 
 ## Overview
